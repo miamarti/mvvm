@@ -1,3 +1,3 @@
-mvvm.create('cit', {
+mvvm.create('app', {
     title : 'MVVM'
 });

@@ -1,9 +1,8 @@
-cit.service('dataService', function($scope){
+app.service('dataService', function($scope) {
 "use strict";
     var dataService = {
-        getData : function(){
-            console.log($scope);
-        }
+	getData : function() {
+	}
     };
     return dataService;
 });
