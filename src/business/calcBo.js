@@ -1,4 +1,4 @@
-app.business('calcBo', function($){
+app.business('calcBo', function(_){
 "use strict";
     _.name = 'Maria';
     _.fone = '33.33';
